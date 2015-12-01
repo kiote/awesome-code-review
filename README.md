@@ -7,7 +7,7 @@ This is a checklist to make sure you've been doing your best while reviewing the
 - [ ] Does PR has one commit per one logical change?
 - [ ] Does one PR's commit less than 200 lines of code (LOC)?
 - [ ] Does the code work?
-    - [ ] Does it being tested?
+    - [ ] Does new functionality has (unit or acceptance or both) tests?
     - [ ] Could the result be seen effortless (with screenshoots, screencasts, output example)?
 - [ ] Does the code make sense?
 - [ ] Does the code free from duplication?
