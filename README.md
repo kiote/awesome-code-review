@@ -10,8 +10,8 @@ This is a checklist to make sure you've been doing your best while reviewing the
     - [ ] Does it being tested?
     - [ ] Could the result be seen effortless (with screenshoots, screencasts, output example)?
 - [ ] Does the code make sense?
-- [ ] Is the code free from duplication?
-- [ ] Does not contains parts, which could be replaced with current external libraries code.
+- [ ] Does the code free from duplication?
+- [ ] The code does not contains parts, which could be replaced with current external libraries code.
 - [ ] Will this code work in most possible edge cases?
 
 #### Readability
