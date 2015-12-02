@@ -4,7 +4,7 @@ This is a checklist to make sure you've been doing your best while reviewing the
 
 #### General 
 
-- [ ] Does the code work (any you have proofs)?
+- [ ] Does the code work (and you have proofs)?
     - [ ] Does new functionality has (unit or acceptance or both) tests?
     - [ ] Could the result be seen effortless (with screenshoots, screencasts, output example)?
 - [ ] Does PR has one commit per one logical change?
