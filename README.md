@@ -4,11 +4,11 @@ This is a checklist to make sure you've been doing your best while reviewing the
 
 #### General 
 
-- [ ] Does PR has one commit per one logical change?
-- [ ] Does one PR's commit less than 200 lines of code (LOC)?
-- [ ] Does the code work?
+- [ ] Does the code work (any you have proofs)?
     - [ ] Does new functionality has (unit or acceptance or both) tests?
     - [ ] Could the result be seen effortless (with screenshoots, screencasts, output example)?
+- [ ] Does PR has one commit per one logical change?
+- [ ] Does one PR's commit less than 200 lines of code (LOC)?
 - [ ] Does the code make sense?
 - [ ] Does the code free from duplication?
 - [ ] The code does not contains parts, which could be replaced with current external libraries code.
