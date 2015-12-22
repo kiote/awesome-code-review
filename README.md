@@ -1,4 +1,4 @@
-# Awesome code review
+# Awesome code review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a checklist to make sure you've been doing your best while reviewing the code. I assume that all boring stuff like following the coding convention you are testing automatically.
 
