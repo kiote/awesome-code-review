@@ -15,6 +15,7 @@ This is a checklist to make sure you've been doing your best while reviewing the
 - [ ] Will this code work in most possible edge cases?
 - [ ] Does the code follows Single Responcibility principe?
 - [ ] It's not scaring for me to maintain this code in a future.
+- [ ] Does the code works in differerent environments after your change?
 
 #### Readability
 
